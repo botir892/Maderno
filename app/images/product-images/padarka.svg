@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71 73" width="71" height="73">
+	<defs>
+		<image  width="71" height="73" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABJAgMAAAAS1NP8AAAAAXNSR0IB2cksfwAAAAlQTFRFAAAA5+zy5+zyRLzf/QAAAAN0Uk5TAAD/13QrUwAAAKNJREFUeJzt0MENwzAIBVC7MwYfGIF5mg1qKTBlITHFSI16yqFquYS82HzHpZQKJAxaIh3KXrWJyAqA+nCynm2RfhlE9gK2VvpMK84kQezEFmaxQV3T2FJJDrpp34wgkW6xc+BMZEf/SDj+yak7+fh6DN5DXhTF50RB/ZwwyK8QYtS46EtrZG1T9910we1sU/OnnyLK9HhPmOmu1DItSpCIl/IEDF8q5c3FZ/EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="middle_section">
+		<g id="why choose ">
+			<g id="all services">
+				<g id="2">
+					<g id="icon">
+						<use id="2027082" href="#img1" x="0" y="0" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

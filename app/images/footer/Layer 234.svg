@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
+	<defs>
+		<image  width="28" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAAXNSR0IB2cksfwAAAJ9QTFRFaDEwzi4p5S0nzS4pZjEv0S4pzy4o6VFM7XFs7nNv7np274F97nVy7Wxn6EI85S4o9ra0/////vr673157Ghk/vPz5jQv8peU61pW9Kek/e3s85+d/vf37Gll9rSy/Obm5zw28paT/fPy7ndz976850E79Kil//7+5jMt8IOA/OXl9rOx5zk0/e/u7nZy/Orq61lV6EQ/7W1p0i0o0y0oa2pu7wAAAKJJREFUeJzF0dkOgjAQBdBxBLWiQt0XUMFd3PH/v82EZSjVMSaaeJ+aOQ+d3gKUkEnZAJMzxArwhvhHrNaEqFtxGkI0Wwrajiym3cmxK/X0+oSDJ5RDwlEyGE9cQo9wmgxmOPeDFBeEywwRV+tNfLZe4Ha3lxqGKR78Y3bnSV/IPefbeu+ecvmsBDvUTK0P8XoTSgrFf/OfP8eINxPgzllkPAAaOxghcJw9ZgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer_section">
+		<g id="follow us">
+			<g id="social">
+				<use id="Layer 234" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

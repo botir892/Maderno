@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
+	<defs>
+		<image  width="28" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAAXNSR0IB2cksfwAAACRQTFRFFWXAka3b093vNHPF////9Pf7rcHjgqLW6u733ubzoLffcpfSjal39gAAAEZJREFUeJxjYKApEBJA5jG7OKNwQ4JRFBsaoHCVFJLUNSbCuS4OKi4uLgVIXNcklwlIXC9mFwckriMDmVygvdpAgqDf6AYAJ20PgXnsv2UAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer_section">
+		<g id="follow us">
+			<g id="social">
+				<use id="" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

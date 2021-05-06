@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
+	<defs>
+		<image  width="28" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAAXNSR0IB2cksfwAAAPlQTFRFPVdrUZ3WVazuUZzVPVZpUZ7ZUZ3XVqzuhsTzpNP2m871ZLPwWq/vVq3ukMn0ZrTwZbTw1er7////9/v+o9L2r9j3vt/43e786fT9brjx0Oj66vX9ms71crrx4vH8+fz+qNT2Wq7ub7nxs9r3tdv48Pj9sNn3dLvxfcDyzef6abbw6/X9/v7/8Pj+vN742Oz7qdX2pNL2f8HyWK7uxuP58vj+brjwweH5+/3/aLXw9vr+6PT9XLDveL3x4PD8+v3/d73xntD1/P3/9vv+YLLvbLfw3+/8XK/v5/P93u/8mc31V63ulsz0sNj3odH2kcn0a7fwUZ/aUZ/bASgS5AAAAM1JREFUeJzF0tUOAjEQBdAyyOJS3FlsF3d3d1n+/2PYQAMtpK9wX5rOySTNTRHSACdaHdLzDMCA+AbwIxSMJrMFwGp7o91BzOnCGLs9Xh+16Q8EnxjCj4Qj0TfGcDwhqmcSk6SozbR6z2QlUSaWox+ULzxmxRLBMo2VMGZSpbHGGq7T2Ggy1mowJbQ7XQpNbEO9PmWD4Ud9o/HLJtOvboXZ/GkLI1v8ciXX/GRvLQGLG8+W0G5/gA9UEz1WT+fLFZj85Q8pfNMjdOOZorsDvHYcvSqKk+kAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer_section">
+		<g id="follow us">
+			<g id="social">
+				<use id="Layer 233" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

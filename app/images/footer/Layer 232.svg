@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" width="28" height="28">
+	<defs>
+		<image  width="28" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAAXNSR0IB2cksfwAAAHhQTFRFNj9ROlSLO1mYNT5QOlWNOlSMPlyajJ3C1dvp8vT46+703+TuyNHi////+fr8kKHF193q5+vyqLXRlqbIk6TG8/X5WXKo+vv9PVuZT2qjfJC6/Pz9fpK7cIa0eIy4yNDirrrUlKXHU22liZvBipzCV3GnPVqZOlWOGghUwgAAAHlJREFUeJzNz7sCgjAMRuEQagWlgHglco/C+7+hZXGhycxZvyF/ACIUimIwkiEeQDbEXaA9Jml6OgfRZm4tD2LhFCy9XKrrLYh3jw9p0NOj1fAVwpqI3h4bonaDnfvXazhoOG5wYub15of5K66dtVd2jEZGA7BIaOIf1n4PysL2UxkAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="footer_section">
+		<g id="follow us">
+			<g id="social">
+				<use id="Layer 232" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>
